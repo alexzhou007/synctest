@@ -1,4 +1,4 @@
-$ File C:\Users\pzhou\Desktop\aectech2021\Model\local-I.e2k saved 11/6/2021 12:58:58 PM
+$ File C:\Users\pzhou\Desktop\aectech2021\Model\local-II from local-I.e2k saved 11/6/2021 3:13:42 PM
  
 $ PROGRAM INFORMATION
   PROGRAM  "ETABS"  VERSION "18.1.2"  
@@ -379,6 +379,8 @@ ETABS Ultimate  18.1.1 File saved as C:\Users\salman.CSI-AD\AppData\Local\Comput
 ETABS Ultimate  18.1.2 File saved as C:\Users\pzhou\Desktop\aectech2021\Model\master.EDB at 11/6/2021 12:55:52 PM
 ETABS Ultimate 18.1.2 File imported from  (Untitled) at  11/6/2021 12:57:29 PM
 ETABS Ultimate  18.1.2 File saved as C:\Users\pzhou\Desktop\aectech2021\Model\local-I.EDB at 11/6/2021 12:58:45 PM
+ETABS Ultimate 18.1.2 File imported from  (Untitled) at  11/6/2021 3:11:31 PM
+ETABS Ultimate  18.1.2 File saved as C:\Users\pzhou\Desktop\aectech2021\Model\local-II from local-I.EDB at 11/6/2021 3:13:26 PM
   ENDCOMMENTS  
 
   END
